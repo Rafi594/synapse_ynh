@@ -1,6 +1,9 @@
 Synapse for YunoHost
 ==================
 
+Note : It's not recommended to install this version. This branch is only for migration test.
+------------
+
 Yunohost chattroom with matrix : [https://riot.im/app/#/room/#yunohost:matrix.org](https://riot.im/app/#/room/#yunohost:matrix.org)
 
 [Yunohost project](https://yunohost.org/#/)
